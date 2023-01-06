@@ -1,1 +1,12 @@
+
+sudo apt update
+
+sudo apt-get update
+
+apt-get install wget
+
+dpkg -l | grep wget
+
+
+
 wget "https://drive.google.com/drive/folders/107_pRnLIwN1wPVkaVK3W3wUnbC1SS0fQ?usp=share_link"
